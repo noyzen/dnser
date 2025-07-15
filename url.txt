@@ -3,12 +3,13 @@ https://google.com
 https://login.leagueoflegends.com
 https://leagueoflegends.com
 https://riotgames.com
+https://megasrv.de
+https://amazonaws.com
 https://45.253.131.236
 https://v2202210183353203120.hotsrv.de
 https://188.68.35.84
 https://89.58.39.163
 https://ec2-3-76-244-31.eu-central-1.compute.amazonaws.com
-https://amazonaws.com
 https://127.0.0.1
 https://104.16.120.50
 https://172.64.146.73
