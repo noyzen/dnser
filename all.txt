@@ -193,3 +193,29 @@
 94.140.15.15         # AdGuard DNS (default)
 94.140.15.16         # AdGuard DNS (Family filter)
 95.85.95.85          # Gcore Public DNS
+208.67.222.220       # US - OpenDNS - 2
+208.67.220.222       # US - OpenDNS - 2
+198.153.192.1        # US - Norton DNS
+198.153.194.1        # US - Norton DNS
+156.154.70.22        # US - Comodo
+156.154.71.22        # US - Comodo
+205.171.3.65         # US - Qwest
+205.171.2.65         # US - Qwest
+204.97.212.10        # US - Sprint
+204.117.214.10       # US - Sprint
+199.2.252.10         # US - Sprintlink
+204.97.212.10        # US - Sprintlink
+204.69.234.1         # US - UltraDNS
+204.74.101.1         # US - UltraDNS
+212.23.8.1           # GB - Zen Internet
+212.23.3.1           # GB - Zen Internet
+195.92.195.94        # GB - Orange DNS
+195.92.195.95        # GB - Orange DNS
+80.67.169.12         # FR - FDN
+80.67.169.40         # FR - FDN
+156.154.70.1         # US - Neustar
+156.154.71.1         # US - Neustar
+176.103.130.130      # RU - AdGuard
+176.103.130.131      # RU - AdGuard
+95.111.55.251        # BG - MegaLan
+95.111.55.250        # BG - MegaLan
