@@ -11,8 +11,8 @@ https://cf.dyn.riotcdn.net.cdn.cloudflare.net
 https://clientconfig.rpg.riotgames.com
 https://a17.d.akamai.net
 https://dradis-prod.rdatasrv.net
-https://dradis-prod.rdatasrv.net
 https://a11.d.akamai.net
 https://update.googleapis.com
-https://o163744.ingest.sentry.io
+https://sentry.io
+https://pvp.net
 https://feapp.me1.lol.pvp.net
