@@ -9,3 +9,15 @@ https://188.68.35.84
 https://89.58.39.163
 https://ec2-3-76-244-31.eu-central-1.compute.amazonaws.com
 https://amazonaws.com
+https://127.0.0.1
+https://104.16.120.50
+https://172.64.146.73
+https://185.200.125.162
+https://172.64.149.48
+https://172.65.223.136
+https://172.64.147.231
+https://104.16.56.40
+https://10.202.9.57
+https://104.18.40.25
+https://104.18.156.37
+https://104.16.56.21
