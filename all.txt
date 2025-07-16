@@ -1,3 +1,6 @@
+69.96.69.96          # FiveM 1
+193.110.81.0         # dns0.eu
+185.253.5.0          # dns0.eu
 1.0.0.1              # Cloudflare Public DNS
 1.0.0.2              # Cloudflare (malware filter)
 1.0.0.3              # Cloudflare (malware+adult filter)
