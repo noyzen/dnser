@@ -1,0 +1,5 @@
+# Configuration file for DNS checker
+# timeout: Time (in seconds) for each URL resolution attempt (0.5 to 10)
+timeout=5
+# maxWorkers: Number of concurrent DNS checks (1 to 100)
+maxWorkers=20
